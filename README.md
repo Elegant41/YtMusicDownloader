@@ -1,4 +1,4 @@
-# YT Music Desktop Player & Downloader
+# Youtube Music Desktop Player & Downloader
 
 Modern, hızlı ve açık kaynaklı bir YouTube Music Masaüstü Oynatıcısı ve İndiricisi. PyQt6 kullanılarak geliştirilmiştir.
 
@@ -6,7 +6,7 @@ Modern, hızlı ve açık kaynaklı bir YouTube Music Masaüstü Oynatıcısı v
 
 * **Tam Kütüphane Erişimi:** YouTube Music hesabınıza giriş yaparak beğendiğiniz şarkılara, çalma listelerinize ve dinleme geçmişinize erişin.
 * **Müzik Oynatıcı:** Arka planda kesintisiz müzik dinleme deneyimi.
-* **Gelişmiş Arama:** Şarkı, sanatçı, albüm ve çalma listesi araması.
+* **Arama:** Şarkı, sanatçı, albüm ve çalma listesi araması.
 * **Yüksek Kalitede İndirme:** Şarkıları MP3 formatında yüksek kalitede indirebilme (yt-dlp ve FFmpeg altyapısı ile).
 * **Modern Arayüz:** Kullanıcı dostu, karanlık tema destekli şık ve modern UI.
 
